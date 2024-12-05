@@ -11,5 +11,7 @@ This has additional features that we can build for the chatbot
 # Link click tracking.
 
 
+![Screenshot (592)](https://github.com/user-attachments/assets/c1d934d3-9703-44c5-8b4f-cf02de9a29e5)
 
 
+![Screenshot (593)](https://github.com/user-attachments/assets/4558f35a-d076-49ab-bd30-976dd7449358)
