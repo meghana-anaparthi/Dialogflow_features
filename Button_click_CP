@@ -1,0 +1,57 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "button",
+        "anchor": {
+          "href": "https://example.com/option1"
+        },
+        "icon": {
+          "type": "chevron_right",
+          "color": "#FF9800"
+        },
+        "event": {
+          "params": {
+            "button_text": "https://example.com/option1"
+          },
+          "event": "button_click"
+        },
+        "text": "https://example.com/option1"
+      },
+      {
+        "icon": {
+          "color": "#FF9800",
+          "type": "chevron_right"
+        },
+        "event": {
+          "params": {
+            "button_text": "https://example.com/option2"
+          },
+          "event": "button_click"
+        },
+        "text": "https://example.com/option2",
+        "type": "button",
+        "anchor": {
+          "href": "https://example.com/option2"
+        }
+      },
+      {
+        "anchor": {
+          "href": "https://example.com/option3"
+        },
+        "icon": {
+          "type": "chevron_right",
+          "color": "#FF9800"
+        },
+        "type": "button",
+        "event": {
+          "params": {
+            "button_text": "https://example.com/option3"
+          },
+          "event": "button_click"
+        },
+        "text": "https://example.com/option3"
+      }
+    ]
+  ]
+}
