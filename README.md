@@ -8,4 +8,8 @@ This has additional features that we can build for the chatbot
 
 ![Screenshot (588)](https://github.com/user-attachments/assets/703aff1a-8373-4e45-aefe-88caf380d1d2)
 
+# Link click tracking.
+
+
+
 
