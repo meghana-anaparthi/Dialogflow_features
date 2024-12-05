@@ -15,3 +15,28 @@ This has additional features that we can build for the chatbot
 
 
 ![Screenshot (593)](https://github.com/user-attachments/assets/4558f35a-d076-49ab-bd30-976dd7449358)
+
+# Positive Feedback
+
+![Screenshot (596)](https://github.com/user-attachments/assets/444aa543-2f7e-4354-92e5-6dd1584a380b)
+
+![Screenshot (595)](https://github.com/user-attachments/assets/c48b6573-28c9-43f9-873a-bb17a2c43f12)
+
+# Negative Feedback
+
+
+![Screenshot (597)](https://github.com/user-attachments/assets/3a59c737-a045-4101-936b-2f4bba32d89a)
+
+
+![Screenshot (598)](https://github.com/user-attachments/assets/5179421b-5ed2-4067-af4c-17034982a391)
+
+
+![Screenshot (599)](https://github.com/user-attachments/assets/4eac9ad2-706a-400a-a464-d9096738f7a7)
+
+
+![Screenshot (600)](https://github.com/user-attachments/assets/39f729ce-37ec-4b6a-baf5-ae0350d9b5d4)
+
+
+![Screenshot (601)](https://github.com/user-attachments/assets/709a2819-de16-47a9-a01e-d02a3b2a7442)
+
+
