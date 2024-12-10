@@ -39,4 +39,8 @@ This has additional features that we can build for the chatbot
 
 ![Screenshot (601)](https://github.com/user-attachments/assets/709a2819-de16-47a9-a01e-d02a3b2a7442)
 
+# Updated UI
+
+![Screenshot (633)](https://github.com/user-attachments/assets/2e3263af-d7e7-4456-a517-d5a832e522ce)
+
 
