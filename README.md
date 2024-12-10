@@ -39,6 +39,11 @@ This has additional features that we can build for the chatbot
 
 ![Screenshot (601)](https://github.com/user-attachments/assets/709a2819-de16-47a9-a01e-d02a3b2a7442)
 
+# Negative Feedback V2
+
+![Screenshot (635)](https://github.com/user-attachments/assets/36a1e1a2-1740-4f33-b755-f797305650e7)
+
+
 # Updated UI
 
 ![Screenshot (633)](https://github.com/user-attachments/assets/2e3263af-d7e7-4456-a517-d5a832e522ce)
